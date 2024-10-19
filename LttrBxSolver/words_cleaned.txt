@@ -2381,7 +2381,6 @@ actinophorous
 actinophryan
 actinophrys
 actinopod
-actinopoda
 actinopraxis
 actinopteran
 actinopteri
@@ -7686,8 +7685,6 @@ ambry
 ambrica
 ambries
 ambrite
-ambroid
-ambroids
 ambrology
 ambrose
 ambrosia
@@ -8875,8 +8872,6 @@ anacahuita
 anacahuite
 anacalypsis
 anacampsis
-anacamptic
-anacamptics
 anacamptometer
 anacanth
 anacanthine
@@ -11964,7 +11959,6 @@ antidoting
 antidotism
 antidraft
 antidrag
-antidromal
 antidromy
 antidromic
 antidromous
@@ -14080,7 +14074,6 @@ apriorist
 aprioristic
 apriority
 apritif
-aprocta
 aproctia
 aproctous
 apron
@@ -20299,7 +20292,6 @@ baconism
 baconist
 baconize
 bacons
-bacopa
 bacquet
 bact
 bacteraemia
@@ -20853,7 +20845,6 @@ balanta
 balante
 balantidial
 balantidiasis
-balantidic
 balantidiosis
 balantidium
 balanus
@@ -25752,7 +25743,6 @@ bicolour
 bicoloured
 bicolourous
 bicolours
-bicompact
 biconcave
 biconcavity
 bicondylar
@@ -48159,7 +48149,6 @@ coilyear
 coiling
 coils
 coilsmith
-coimplicant
 coimplicate
 coimplore
 coin
@@ -48437,7 +48426,6 @@ colyonic
 coliphage
 colipyelitis
 colipyuria
-coliplication
 colipuncture
 colisepsis
 coliseum
@@ -48571,7 +48559,6 @@ colophonist
 colophonite
 colophonium
 colophons
-coloplication
 coloproctitis
 coloptosis
 colopuncture
@@ -48873,7 +48860,6 @@ combinatorial
 combinatoric
 combinatorics
 combinators
-combind
 combine
 combined
 combinedly
@@ -49285,8 +49271,6 @@ complaisant
 complaisantly
 complanar
 complanate
-complanation
-complant
 compleat
 compleated
 complect
@@ -49361,7 +49345,6 @@ compliant
 compliantly
 complicacy
 complicacies
-complicant
 complicate
 complicated
 complicatedly
@@ -49557,7 +49540,6 @@ comptoir
 comptometer
 comptonia
 comptonite
-comptrol
 compts
 compulsative
 compulsatively
@@ -52451,7 +52433,6 @@ copywriting
 coplanar
 coplanarity
 coplanarities
-coplanation
 copleased
 coplot
 coplots
@@ -58425,7 +58406,6 @@ damboard
 dambonite
 dambonitol
 dambose
-dambrod
 dame
 damenization
 dames
@@ -67007,7 +66987,6 @@ diplomaed
 diplomaing
 diplomas
 diplomat
-diplomata
 diplomate
 diplomates
 diplomatic
@@ -115090,8 +115069,6 @@ impliability
 impliable
 impliably
 implial
-implicant
-implicants
 implicate
 implicated
 implicately
@@ -129906,7 +129883,6 @@ lamnid
 lamnidae
 lamnoid
 lamp
-lampad
 lampadaire
 lampadary
 lampadaries
@@ -129915,7 +129891,6 @@ lampadephore
 lampadephoria
 lampadist
 lampadite
-lampads
 lampara
 lampas
 lampases
@@ -137567,7 +137542,6 @@ macropsia
 macropteran
 macroptery
 macropterous
-macroptic
 macropus
 macroreaction
 macrorhamphosidae
@@ -145256,7 +145230,6 @@ micropodidae
 micropodiformes
 micropodous
 micropoecilitic
-micropoicilitic
 micropoikilitic
 micropolariscope
 micropolarization
@@ -184006,7 +183979,6 @@ pict
 pictarnie
 pictavi
 pictish
-pictland
 pictogram
 pictograph
 pictography
@@ -196106,7 +196078,6 @@ procoelous
 procoercion
 procoercive
 procolonial
-procombat
 procomedy
 procompensation
 procompetition
@@ -196329,7 +196300,6 @@ prodomos
 prodramatic
 prodroma
 prodromal
-prodromatic
 prodrome
 prodromes
 prodromic
@@ -197276,7 +197246,6 @@ propodeum
 propodial
 propodiale
 propodite
-propoditic
 propodium
 propoganda
 propolis
@@ -245290,8 +245259,6 @@ talofibular
 talon
 talonavicular
 taloned
-talonic
-talonid
 talons
 taloscaphoid
 talose
@@ -251867,10 +251834,7 @@ tincture
 tinctured
 tinctures
 tincturing
-tind
 tynd
-tindal
-tindalo
 tinder
 tinderbox
 tinderboxes

@@ -64,7 +64,7 @@ public class Main {
     public static void solveSetOrder(String current, ArrayList<String> solution) {
         if(board.usedAllLetters(solution)){
             numSolutions++;
-            //System.out.println("Solution: " + solution.toString() + " Yay! ");
+            System.out.println("Solution: " + solution.toString() + " Yay! ");
             return;
         }
         if(solution.size() > lengthRec - 1){
