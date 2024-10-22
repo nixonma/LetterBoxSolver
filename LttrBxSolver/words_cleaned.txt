@@ -4919,7 +4919,6 @@ agriculturer
 agricultures
 agriculturist
 agriculturists
-agrief
 agrilus
 agrimony
 agrimonia
@@ -6130,7 +6129,6 @@ alectrion
 alectryon
 alectrionidae
 alecup
-alef
 alefs
 aleft
 alefzero
@@ -6290,7 +6288,6 @@ alfirk
 alfoncino
 alfonsin
 alfonso
-alforge
 alforja
 alforjas
 alfred
@@ -41737,7 +41734,6 @@ chipchop
 chipewyan
 chipyard
 chiplet
-chipling
 chipmuck
 chipmucks
 chipmunk
@@ -42574,8 +42570,6 @@ chopin
 chopine
 chopines
 chopins
-choplogic
-choplogical
 chops
 chopstick
 chopsticks
@@ -44242,7 +44236,6 @@ cinchonism
 cinchonization
 cinchonize
 cinchonized
-cinchonizing
 cinchonology
 cinchophen
 cinchotine
@@ -44399,7 +44392,6 @@ cynomorpha
 cynomorphic
 cynomorphous
 cynophile
-cynophilic
 cynophilist
 cynophobe
 cynophobia
@@ -45213,7 +45205,6 @@ citole
 citoler
 citolers
 citoles
-cytolymph
 cytolysin
 cytolysis
 cytolist
@@ -48554,7 +48545,6 @@ colophon
 colophonate
 colophony
 colophonian
-colophonic
 colophonist
 colophonite
 colophonium
@@ -49379,7 +49369,6 @@ complimenters
 complimenting
 complimentingly
 compliments
-complin
 compline
 complines
 complins
@@ -54838,14 +54827,8 @@ cozier
 cozies
 coziest
 cozily
-cozing
-cpd
 cpi
-cpl
-cpm
 cpo
-cps
-cpt
 cpu
 cpus
 cputime
@@ -74068,7 +74051,6 @@ edwin
 edwina
 efecks
 efik
-efl
 efoliolate
 efoliose
 efoveolate
@@ -74246,7 +74228,6 @@ eyecups
 eyed
 eyedot
 eyedrop
-eyeflap
 eyeful
 eyefuls
 eyeglance
@@ -85414,8 +85395,6 @@ fagaceous
 fagald
 fagales
 fagara
-fage
-fagelia
 fager
 fagin
 fagine
@@ -85532,7 +85511,6 @@ fairleads
 fairly
 fairlike
 fairling
-fairm
 fairs
 fairship
 fairsome
@@ -86743,7 +86721,6 @@ feigning
 feigningly
 feigns
 feijoa
-feil
 feinschmecker
 feinschmeckers
 feint
@@ -86858,7 +86835,6 @@ femalist
 femality
 femalize
 feme
-femereil
 femes
 femic
 femicide
@@ -87005,7 +86981,6 @@ feretories
 feretra
 feretrum
 ferfathmur
-ferfel
 ferfet
 ferforth
 ferganite
@@ -87038,7 +87013,6 @@ ferlying
 ferling
 fermacy
 fermage
-fermail
 fermal
 fermata
 fermatas
@@ -87069,7 +87043,6 @@ fermentum
 fermerer
 fermery
 fermi
-fermila
 fermion
 fermions
 fermis
@@ -87664,7 +87637,6 @@ fief
 fiefdom
 fiefdoms
 fiefs
-fiel
 field
 fieldbird
 fielded
@@ -87828,8 +87800,6 @@ fykes
 fikh
 fikie
 fiking
-fil
-fila
 filace
 filaceous
 filacer
@@ -87994,7 +87964,6 @@ filmy
 filmic
 filmier
 filmiest
-filmiform
 filmily
 filming
 filmish
@@ -89155,7 +89124,6 @@ fledgiest
 fledging
 fledgling
 fledglings
-flegm
 fley
 fleyed
 fleyedly
@@ -89341,7 +89309,6 @@ flyman
 flymen
 flimflam
 flimflams
-flimp
 flimsy
 flimsier
 flimsies
@@ -89388,7 +89355,6 @@ flints
 flintstone
 flintwork
 flintworker
-flioma
 flyover
 flyovers
 flip
@@ -89544,7 +89510,6 @@ flor
 flora
 florae
 floral
-floralia
 floralize
 floramor
 floramour
@@ -89572,7 +89537,6 @@ floreted
 florets
 floretum
 flory
-floria
 floriage
 florian
 floriate
@@ -90280,7 +90244,6 @@ foldskirt
 foldure
 foldwards
 fole
-foleye
 folgerite
 folia
 foliaceous
@@ -90289,7 +90252,6 @@ foliaged
 foliageous
 foliages
 foliaging
-folial
 foliar
 foliary
 foliate
@@ -90726,7 +90688,6 @@ foreflap
 forefront
 forefronts
 foregahger
-foregame
 foreganger
 foregate
 foregather
@@ -90934,7 +90895,6 @@ forerevelation
 forerib
 foreribs
 foreright
-foreroyal
 forerun
 foreruns
 fores
@@ -91343,7 +91303,6 @@ formboard
 forme
 formed
 formedon
-formel
 formelt
 formene
 formenic
@@ -91999,7 +91958,6 @@ frail
 fraile
 frailejon
 frailer
-frailero
 fraileros
 frailes
 frailest
@@ -92546,8 +92504,6 @@ frijole
 frijoles
 frijolito
 frike
-frilal
-frim
 frimaire
 fringe
 fringed
@@ -94194,7 +94150,6 @@ galei
 galey
 galeid
 galeidae
-galeiform
 galempong
 galempung
 galen
@@ -97538,7 +97493,6 @@ giroflore
 gyrofrequency
 gyrofrequencies
 gyrogonite
-gyrograph
 gyrohorizon
 gyroidal
 gyrolite
@@ -97993,7 +97947,6 @@ gliadins
 glial
 glib
 glibly
-glyc
 glycaemia
 glycaemic
 glycan
@@ -98034,23 +97987,15 @@ glycerophosphate
 glycerophosphoric
 glycerose
 glyceroxide
-glycic
 glycid
 glycide
 glycidic
 glycidol
-glycyl
-glycyls
-glycin
 glycine
 glycines
-glycinin
-glycins
 glycyrize
 glick
 glycocholate
-glycocholic
-glycocin
 glycogelatin
 glycogen
 glycogenase
@@ -98071,11 +98016,9 @@ glycolaldehyde
 glycolate
 glycolic
 glycolide
-glycolyl
 glycolylurea
 glycolipid
 glycolipide
-glycolipin
 glycolipine
 glycolysis
 glycolytic
@@ -98086,9 +98029,7 @@ glyconean
 glyconeogenesis
 glyconeogenetic
 glyconian
-glyconic
 glyconics
-glyconin
 glycopeptide
 glycopexia
 glycopexis
@@ -98187,7 +98128,6 @@ glyptotheca
 glyptotherium
 glires
 gliridae
-gliriform
 gliriformia
 glirine
 glis
@@ -99021,7 +98961,6 @@ goloe
 goloka
 golosh
 goloshes
-golp
 golpe
 golundauze
 goluptious
@@ -99405,10 +99344,8 @@ gosport
 gosports
 goster
 gosther
-got
-gotch
+g
 gotched
-gotchy
 gote
 goter
 goth
@@ -99418,7 +99355,6 @@ gothamite
 gothic
 gothicism
 gothicist
-gothicity
 gothicize
 gothicizer
 gothics
@@ -105272,7 +105208,6 @@ hemielytron
 hemiepes
 hemiepilepsy
 hemifacial
-hemiform
 hemigale
 hemigalus
 hemiganus
@@ -107091,9 +107026,6 @@ hyalobasalt
 hyalodacite
 hyalogen
 hyalogens
-hyalograph
-hyalographer
-hyalography
 hyaloid
 hyaloiditis
 hyaloids
@@ -108798,7 +108730,6 @@ hyperflexible
 hyperflexibly
 hyperflexion
 hyperfocal
-hyperform
 hyperfunction
 hyperfunctional
 hyperfunctioning
@@ -109208,8 +109139,6 @@ hiphalt
 hyphantria
 hiphape
 hyphedonia
-hyphema
-hyphemia
 hyphemias
 hyphen
 hyphenate
@@ -110482,7 +110411,6 @@ hogcote
 hogen
 hogfish
 hogfishes
-hogframe
 hoghead
 hogherd
 hoghide
@@ -111028,7 +110956,6 @@ homicidium
 homiculture
 homier
 homiest
-homiform
 homilete
 homiletic
 homiletical
@@ -111369,7 +111296,6 @@ homozygosis
 homozygosity
 homozygote
 homozygotes
-homozygotic
 homozygous
 homozygously
 homrai
@@ -112961,7 +112887,6 @@ yamen
 yamens
 yameo
 yamilke
-yamp
 yampa
 yamph
 yams
@@ -113053,10 +112978,7 @@ yardwand
 yardwands
 yardwork
 yardworks
-iare
 yare
-yarely
-yarer
 yarest
 yareta
 yariyari
@@ -113961,7 +113883,6 @@ yelek
 yelk
 yelks
 yelm
-yelmer
 yelp
 yelped
 yelper
@@ -114004,7 +113925,6 @@ yeowoman
 yeowomen
 yep
 yepeleic
-yepely
 yephede
 yeply
 yer
@@ -114017,7 +113937,6 @@ yerbales
 yerbas
 yercum
 yerd
-yere
 yerga
 yerk
 yerked
@@ -114308,7 +114227,6 @@ iliocostal
 iliocostales
 iliocostalis
 iliodorsal
-iliofemoral
 iliohypogastric
 ilioinguinal
 ilioischiac
@@ -114821,7 +114739,6 @@ impercipient
 imperdible
 imperence
 imperent
-imperf
 imperfect
 imperfectability
 imperfected
@@ -122135,7 +122052,6 @@ yolkier
 yolkiest
 yolks
 yom
-yomer
 yomim
 yomin
 yomud
@@ -131918,7 +131834,6 @@ leibnitzian
 leibnitzianism
 leicester
 leyden
-leif
 leifite
 leiger
 leigh
@@ -133492,7 +133407,6 @@ lightwort
 ligyda
 ligydidae
 ligitimized
-ligitimizing
 lignaloes
 lignatile
 ligne
@@ -133626,7 +133540,6 @@ liliated
 lilied
 lilies
 lilyfy
-liliform
 lilyhanded
 lilylike
 lilith
@@ -133906,7 +133819,6 @@ lymphocytic
 lymphocytoma
 lymphocytomatosis
 lymphocytosis
-lymphocytotic
 lymphocytotoxin
 lymphodermia
 lymphoduct
@@ -134490,7 +134402,6 @@ lipothymy
 lipothymia
 lypothymia
 lipothymial
-lipothymic
 lipotype
 lipotyphla
 lipotrophy
@@ -135725,7 +135636,6 @@ loyalties
 loiasis
 loyd
 loimic
-loimography
 loimology
 loin
 loyn
@@ -140027,7 +139937,6 @@ mariola
 mariolater
 mariolatry
 mariolatrous
-mariology
 marion
 marionet
 mariou
@@ -141812,7 +141721,6 @@ megalopenis
 megalophonic
 megalophonous
 megalophthalmus
-megalopia
 megalopic
 megalopidae
 megalopyge
@@ -145879,7 +145787,6 @@ myliobatidae
 myliobatine
 myliobatoid
 miliola
-milioliform
 milioline
 miliolite
 miliolitic
@@ -155940,7 +155847,6 @@ nymphish
 nymphitis
 nymphly
 nymphlike
-nymphlin
 nympho
 nymphoides
 nympholepsy
@@ -166795,7 +166701,6 @@ orifice
 orifices
 orificial
 oriflamb
-oriform
 orig
 origami
 origamis
@@ -177518,15 +177423,7 @@ paxiuba
 paxwax
 paxwaxes
 pazend
-pbx
-pbxes
-pcf
 pci
-pcm
-pct
-pdl
-pdn
-pdq
 pea
 peabird
 peabody
@@ -179341,7 +179238,6 @@ perfidy
 perfidies
 perfidious
 perfidiously
-perfilograph
 perfin
 perfins
 perfix
@@ -182031,7 +181927,6 @@ philomelian
 philomels
 philomystic
 philomythia
-philomythic
 philomuse
 philomusical
 phylon
@@ -183465,7 +183360,6 @@ photovisual
 photovitrotype
 photovoltaic
 photoxylography
-photozinco
 photozincograph
 photozincography
 photozincographic
@@ -184402,7 +184296,6 @@ pileate
 pileated
 piled
 pilei
-pileiform
 pileolated
 pileoli
 pileolus
@@ -189013,7 +188906,6 @@ polymyodous
 polymyoid
 polymyositis
 polymythy
-polymythic
 polymixia
 polymyxin
 polymnestor
@@ -189140,7 +189032,6 @@ polypetal
 polypetalae
 polypetaly
 polypetalous
-polyphaga
 polyphage
 polyphagy
 polyphagia
@@ -189200,7 +189091,6 @@ polypides
 polypidom
 polypier
 polypifer
-polypifera
 polypiferous
 polypigerous
 polypite
@@ -189987,7 +189877,6 @@ porgo
 pory
 poria
 poricidal
-porifera
 poriferal
 poriferan
 poriferous
@@ -206517,7 +206406,6 @@ refederated
 refederating
 refederation
 refeign
-refel
 refels
 refelt
 refence
@@ -206562,7 +206450,6 @@ refile
 refiled
 refiles
 refiling
-refilm
 refilmed
 refilming
 refilms
@@ -206610,7 +206497,6 @@ refixed
 refixes
 refixing
 refixture
-refl
 reflag
 reflair
 reflame
@@ -285850,7 +285736,6 @@ zymograms
 zymoid
 zymolyis
 zymolysis
-zymolytic
 zymology
 zymologic
 zymological

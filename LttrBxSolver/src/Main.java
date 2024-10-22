@@ -10,7 +10,9 @@ public class Main {
     private static int lengthRec;
     private static Board board;
     private static Set<String> validWordSet;
-    private static int numSolutions = 0;
+    private static int num3WordSolutions = 0;
+    private static int num2WordSolutions = 0;
+    private static int num4WordSolutions = 0;
     public static void main(String args[]){
         String result = JOptionPane.showInputDialog("input the 12 letters clockwise from top left in sets of 3, space separated. \n (ex: abc def ghi jkl)");
         String[] sides = new String[4];
@@ -55,7 +57,9 @@ public class Main {
 
         ArrayList<String> solution = new ArrayList<>();
         solveSetOrder("", solution);
-        System.out.println("found " + numSolutions + " solutions");
+        System.out.println("found " + num2WordSolutions + " solutions");
+        System.out.println("found " + num3WordSolutions + " solutions");
+        System.out.println("found " + num4WordSolutions + " solutions");
     }
 
     /*
@@ -63,7 +67,13 @@ public class Main {
      */
     public static void solveSetOrder(String current, ArrayList<String> solution) {
         if(board.usedAllLetters(solution)){
-            numSolutions++;
+            if(solution.size() == 2){
+                num2WordSolutions++;
+            }else if(solution.size() == 3){
+                num3WordSolutions++;
+            }else {
+                num4WordSolutions++;
+            }
             System.out.println("Solution: " + solution.toString() + " Yay! ");
             return;
         }
