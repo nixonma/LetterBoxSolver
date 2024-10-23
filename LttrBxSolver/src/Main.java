@@ -1,4 +1,3 @@
-import javax.swing.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
@@ -13,26 +12,19 @@ public class Main {
     private static int num4WordSolutions = 0;
     private static long loopItt = 0;
     public static void main(String args[]){
-        String result = JOptionPane.showInputDialog("input the 12 letters clockwise from top left in sets of 3, space separated. \n (ex: abc def ghi jkl)");
-        String[] sides = new String[4];
-        try{
-            sides = result.split(" ");
-            if(sides.length != 4)
-                throw new ArrayIndexOutOfBoundsException("incorrect number of letter groups entered");
-        } catch(Error error){
-            System.err.println("Yo dawg, we read the input rules?");
-            System.exit(0);
-        }
+        //the letters on each side of the puzzle in groups of 3, space separated.
+        //ex: abc def ghi jkl
+        String input = "ipw unt sea srd";
+        String[] sides = input.split(" ");
 
-        result = JOptionPane.showInputDialog("enter the number of words the puzzle suggests to solve within");
-        lengthRec = Integer.parseInt(result);
+        //the number of words the puzzle suggests to solve within
+        lengthRec = 2;
 
         //create a representation of the board for this puzzle
         board = new Board(sides);
 
         //read in a set of possible words to use
         ArrayList<String> wordSet = new ArrayList<>();
-        //read list of words in
         try {
             File dict = new File("words_cleaned.txt");
             Scanner fileReader = new Scanner(dict);
@@ -46,6 +38,7 @@ public class Main {
             e.printStackTrace();
         }
         System.out.println("Starting with " + wordSet.size() + " words");
+
         //clean unusable words from list
         validWordSet = new HashSet<>();
         startsWithMap = new HashMap<>();
@@ -64,10 +57,13 @@ public class Main {
             }
         }
         System.out.println("Condensed to " + validWordSet.size() + " words");
+
+        //print number of valid words starting with each letter of the puzzle
         for(Character c : startsWithMap.keySet()){
             System.out.println(startsWithMap.get(c).size() + " words beginning with " + c);
         }
 
+        //solve and print stats
         ArrayList<String> solution = new ArrayList<>();
         solveSetOrder("", solution);
         System.out.println("looped " + loopItt + " times");
