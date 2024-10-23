@@ -78964,7 +78964,6 @@ enwoven
 enwrap
 enwrapment
 enwraps
-enwrapt
 enwreath
 enwreathe
 enwreathed
@@ -125673,7 +125672,6 @@ justiciaries
 justiciaryship
 justiciarship
 justiciatus
-justicier
 justicies
 justicing
 justico
@@ -234631,7 +234629,6 @@ spurners
 spurning
 spurnpoint
 spurns
-spurnwater
 spurs
 spurt
 spurted
@@ -242565,7 +242562,6 @@ superingenuity
 superingenuities
 superinitiative
 superinjection
-superinjustice
 superinquisitive
 superinquisitively
 superinsaniated
@@ -242573,8 +242569,6 @@ superinscribe
 superinscribed
 superinscribing
 superinscription
-superinsist
-superinsistence
 superinsistent
 superinsistently
 superinstitute
@@ -242792,7 +242786,6 @@ superparasitism
 superparliamentary
 superparticular
 superpartient
-superpatience
 superpatient
 superpatiently
 superpatriot
@@ -243057,7 +243050,6 @@ superstratum
 superstratums
 superstrenuous
 superstrenuously
-superstrict
 superstrictly
 superstrong
 superstruct
@@ -243962,10 +243954,7 @@ swanwort
 swap
 swape
 swaps
-swaraj
-swarajes
 swarajism
-swarajist
 swarbie
 sward
 swarded
